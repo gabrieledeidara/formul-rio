@@ -8,4 +8,7 @@ form label{
 td {
   border: 1px solid #CCCCCC;
   border-color: black;
+  text-align:center;
+  font-size:25px;
+  color: browm;
 }
