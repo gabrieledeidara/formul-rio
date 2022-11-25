@@ -5,10 +5,10 @@ form label{
   display: block;
   font-size;25px;
 }
-th{
+thead th{
 border:1px solid;
   border-color:black;
-  text-aling:center;
+  text-align:center;
   font-size:25px;
   color:brown;
 }
