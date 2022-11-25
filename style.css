@@ -5,12 +5,9 @@ form label{
   display: block;
   font-size;25px;
 }
-td {
+table tr td {
   border-color: black;
   text-align:center;
   font-size:25px;
-  background:yellow;
-}
-table {
-  background:yellow;
+  background: yellow;
 }
